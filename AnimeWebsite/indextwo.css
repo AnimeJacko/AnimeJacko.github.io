@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+h1  {
+    color: white;
+    text-align: center;
+}
+p {
+    color: royalblue;
+    font-size: 30px;
+    text-align: left;
+}
+a{
+  color: gold;
+}
+img {
+  margin-right: 50px;
+  border-color: #40E0D0;
+  border-style: solid;
+}
+#page1{
+  text-align: center;
+  font-size: 30px;
+}
